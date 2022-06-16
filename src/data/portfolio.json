@@ -1,34 +1,28 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "https://restaurant.eatapp.co/hs-fs/hubfs/Screen%20Shot%202019-03-05%20at%201.18.13%20PM.png?width=1920&name=Screen%20Shot%202019-03-05%20at%201.18.13%20PM.png",
+            "title": "Restaurant Website",
+            "description": "React, React-styled-components, JSX",
+            "url": "https://github.com/InnaCodes/Restaurant-Site"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "https://shannonathompson.files.wordpress.com/2013/01/screen-shot-2013-01-09-at-6-03-27-pm.png",
+            "title": "Bookshelf",
+            "description": "React, Python, Flask",
+            "url": "https://github.com/InnaCodes/bookshelf"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "https://repository-images.githubusercontent.com/239834046/94033c00-57f7-11ea-9b35-1702a1e37ac1",
+            "title": "Fyuur",
+            "description": "Python, Flask, PostgreSQL, Html, Css",
+            "url": "https://github.com/InnaCodes/fyuur"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "https://restaurant.eatapp.co/hs-fs/hubfs/Best-restaurant-website-design-inspirations_4_michiramen-3%20(1).jpg?width=1024&name=Best-restaurant-website-design-inspirations_4_michiramen-3%20(1).jpg",
+            "title": "Restaurant",
+            "description": "React, Css",
+            "url": "https://restaurant-site-blush.vercel.app/"
         }
     ]
 }
