@@ -79,3 +79,41 @@
     transform: rotateX(90deg);
   }
 }
+@media (max-width: 700px){
+  
+  .stage-cube-cont{
+    width: 38%;
+    height: 100%;
+    .cubespinner{
+      margin-left: calc(38% - 50px);
+      div{
+        width: 100px;
+        height: 100px;
+      }
+      .face1 {
+        transform: translateZ(50px);
+        color: #261475;
+      }
+      .face2 {
+        transform: rotateY(90deg) translateZ(50px);
+        color: #f06529;
+      }
+      .face3 {
+        transform: rotateY(90deg) rotateX(90deg) translateZ(50px);
+        color: #28a4d9;
+      }
+      .face4 {
+        transform: rotateY(180deg) rotateZ(90deg) translateZ(50px);
+        color: #5ed4f4;
+      }
+      .face5 {
+        transform: rotateY(-90deg) rotateZ(90deg) translateZ(50px);
+        color: #efd81d;
+      }
+      .face6 {
+        transform: rotateX(-90deg) translateZ(50px);
+        color: #ec4d28;
+      }
+    }
+  }
+}

@@ -37,7 +37,7 @@ const About = () => {
             established IT company with the opportunity to work with the latest
             technologies on challenging and diverse projects.
           </p>
-          <p align="LEFT">
+          <p>
             I'm very confident, goal-driven, curious, with an undying thirst for knowledge and 
             a recurring yearn for knowledge and self imporvement.
           </p>
