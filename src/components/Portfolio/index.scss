@@ -121,14 +121,14 @@
            flex: 1;
            padding-bottom: 0;
             display: flex;
+            column-gap: 5px;
             flex-direction: column;
             
         }
         .image-box{
             position:unset;
             max-width: calc(100% - 10px);
-            
-            
+            max-height: 300px; 
 
             .portfolio-image{
                 position: unset;
@@ -146,9 +146,7 @@
                 font-size: 16px;
                 line-height: 10px;
             }
-            .description{
-                font-size: 14px;
-            }
+
             &:after{
                 position: unset;
             }

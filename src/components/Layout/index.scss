@@ -81,7 +81,7 @@
     p {
       font-size: 13px;
       color: #fff;
-      font-family: sans-serif;
+      font-family: Helvetica, sans-serif;
       font-weight: 300;
       max-width: fit-content;
       animation: pulse 1s;
@@ -116,8 +116,9 @@
 @media (max-width: 700px){
 .container.about-page{
   .text-zone{
-    left: 22%;
+    left: 21%;
     width: 40%;
+    overflow: scroll;
   }
 }
 .container.contact-page{
